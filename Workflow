@@ -1,0 +1,106 @@
+What you actually did (from scratch, simple language)
+
+Let’s forget technical terms for a moment.
+
+🏪 Think like this:
+Repository = your project folder (like a shop)
+main branch = final product shown to customers
+develop branch = workshop where you work
+commit = saving your work
+pull request = asking “Can I add my changes?”
+merge = approving and adding changes
+🔄 Step-by-step what happened in your activity
+1. You created a repository
+
+👉 Means you created a project space on GitHub
+
+2. You added a file
+
+👉 You created:
+
+samplecode.sh
+
+👉 This is your first version of code
+
+3. You created a branch (develop)
+
+👉 Why?
+So you don’t break the main code
+
+4. You made changes in develop
+
+👉 Added second line:
+
+echo "This is second line"
+5. You committed changes
+
+👉 Means you saved your work with a message
+
+6. You created a Pull Request
+
+👉 You said:
+“Please merge my develop code into main”
+
+7. You merged it
+
+👉 Now your final code updated in main
+
+🎯 What is SCM (Software Configuration Management)
+📌 Simple definition:
+
+SCM is the process of managing and tracking changes in software code.
+
+🧠 In easy words:
+
+SCM helps you:
+
+Track what changed
+Know who changed it
+Go back to old version if needed
+Work in team without conflict
+🧱 Why SCM is needed
+
+Without SCM:
+❌ Code gets overwritten
+❌ No history
+❌ Team conflicts
+
+With SCM:
+✅ Safe changes
+✅ Version history
+✅ Team collaboration
+
+🔑 What you learned from this activity
+1. Version control
+
+👉 Code ka history maintain karna
+
+2. Branching concept
+
+👉 Direct main me kaam nahi karna
+👉 Safe branch (develop) use karna
+
+3. Commit
+
+👉 Har change ko save karna with message
+
+4. Pull Request
+
+👉 Changes ko review ke liye bhejna
+
+5. Merge
+
+👉 Final code me changes add karna
+
+6. Real workflow
+
+👉 Industry me same process hota hai:
+
+Developer → develop branch → PR → review → merge → main
+💡 Why this activity is important
+
+Because in real companies:
+
+Multiple developers work together
+Everyone uses Git + GitHub
+Same workflow is followed
